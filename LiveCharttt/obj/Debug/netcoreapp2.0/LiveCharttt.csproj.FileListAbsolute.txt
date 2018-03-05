@@ -1,0 +1,11 @@
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\bin\Debug\netcoreapp2.0\LiveCharttt.deps.json
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\bin\Debug\netcoreapp2.0\LiveCharttt.runtimeconfig.json
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\bin\Debug\netcoreapp2.0\LiveCharttt.runtimeconfig.dev.json
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\bin\Debug\netcoreapp2.0\LiveCharttt.dll
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\bin\Debug\netcoreapp2.0\LiveCharttt.pdb
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\obj\Debug\netcoreapp2.0\LiveCharttt.csproj.CoreCompileInputs.cache
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\obj\Debug\netcoreapp2.0\LiveCharttt.AssemblyInfoInputs.cache
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\obj\Debug\netcoreapp2.0\LiveCharttt.AssemblyInfo.cs
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\obj\Debug\netcoreapp2.0\LiveCharttt.dll
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\obj\Debug\netcoreapp2.0\LiveCharttt.pdb
+E:\R E A C T\lc3\LiveCharttt\LiveCharttt\obj\Debug\netcoreapp2.0\LiveCharttt.csprojResolveAssemblyReference.cache
